@@ -14,4 +14,4 @@ Here is the complete list of parts that are needed. All the parts that start wit
 | C003 | Step motor 28BJ-48          |  1  | tbc      | tbc          | tbi          | tbc              |
 | C004 | Raspberri Pi 3B             |  1  | tbc      | tbc          | tbi          | tbc              |
 
-* PLA filamnete is not suitable for the health industry. Yet it is obviously the best material to prototype.
+* PLA filament is not suitable for the health industry. Yet it is obviously the best material to prototype.
